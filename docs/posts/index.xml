@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
+    <link>https://rubenmanero.github.io/prueba/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Sep 2023 19:03:24 +0200</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Sep 2023 19:03:24 +0200</lastBuildDate><atom:link href="https://rubenmanero.github.io/prueba/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Segundo_post</title>
-      <link>https://example.org/posts/segundo_post/</link>
+      <link>https://rubenmanero.github.io/prueba/posts/segundo_post/</link>
       <pubDate>Sun, 24 Sep 2023 19:03:24 +0200</pubDate>
       
-      <guid>https://example.org/posts/segundo_post/</guid>
+      <guid>https://rubenmanero.github.io/prueba/posts/segundo_post/</guid>
       <description>Segundo post Adipisicing aliquip nostrud nulla amet dolore pariatur qui eu magna. Id incididunt Lorem sunt pariatur velit proident ea elit amet. Laboris amet et commodo enim occaecat magna anim sit non. Sint fugiat nostrud laborum deserunt est aute sit Lorem elit. Labore aute quis cillum ut eiusmod in tempor exercitation officia duis id amet. Minim ea laboris tempor aliquip ea eiusmod exercitation exercitation commodo.
 Duis exercitation ullamco nulla id tempor voluptate ad eu qui.</description>
     </item>
     
     <item>
       <title>Primer_post</title>
-      <link>https://example.org/posts/primer_post/</link>
+      <link>https://rubenmanero.github.io/prueba/posts/primer_post/</link>
       <pubDate>Sun, 24 Sep 2023 19:03:23 +0200</pubDate>
       
-      <guid>https://example.org/posts/primer_post/</guid>
+      <guid>https://rubenmanero.github.io/prueba/posts/primer_post/</guid>
       <description>Primer post Adipisicing aliquip nostrud nulla amet dolore pariatur qui eu magna. Id incididunt Lorem sunt pariatur velit proident ea elit amet. Laboris amet et commodo enim occaecat magna anim sit non. Sint fugiat nostrud laborum deserunt est aute sit Lorem elit. Labore aute quis cillum ut eiusmod in tempor exercitation officia duis id amet. Minim ea laboris tempor aliquip ea eiusmod exercitation exercitation commodo.
 Duis exercitation ullamco nulla id tempor voluptate ad eu qui.</description>
     </item>
