@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'tale'
 
+[Author]
+  name="Rubén Manero"
+
 [menu]
   [[menu.main]]
     identifier = "main"
