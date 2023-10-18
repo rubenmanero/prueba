@@ -19,6 +19,13 @@ theme = 'tale'
     title = "Posts"
     url = "/posts/"
     weight = 0
+  [[menu.main]]
+    identifier = "shortcodes"
+    name = "Shortcodes"
+    title = "Shortcodes"
+    url = "/shortcodes/"
+    weight = 0
 
 [params]
   css = ["css/estilos.css"]
+
